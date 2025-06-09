@@ -41,7 +41,7 @@ profiles:
     url: https://www.linkedin.com/in/suvam-dey
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/Suvam_Verbose.pdf
+    url: uploads/Suvam_CV_Verbose.pdf
     label: Download my resume
 
 # Highlight the author in author lists? (true/false)
