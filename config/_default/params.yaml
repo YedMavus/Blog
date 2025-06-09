@@ -7,7 +7,7 @@
 appearance:
   mode: system
   color: blue
-
+  favicon: "favicon.png"
 # SEO
 marketing:
   seo:
