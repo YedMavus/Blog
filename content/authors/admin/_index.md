@@ -33,6 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:suvamdey2002@gmail.com'
     label: E-mail Me
+  - icon: github
+    url: github.com/yedmavus
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=ZKDDrFAAAAAJ&hl=en
   - icon: brands/x
     url: https://twitter.com/yedmavus
   - icon: brands/instagram
