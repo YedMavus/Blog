@@ -51,7 +51,7 @@ highlight_name: true
 website: "yedmavus.github.io"
 ---
 
- is a graduate student at the Indian Institute of Science (IISc), India's premier research institution. He is pursuing his Master's in Signal Processing and currently works on Continual Learning at the Image Analysis and Computer Vision Lab under the supervision of Prof. Soma Biswas.
+Suvam is a graduate student at the Indian Institute of Science (IISc), India's premier research institution. He is pursuing his Master's in Signal Processing and currently works on Continual Learning at the Image Analysis and Computer Vision Lab under the supervision of Prof. Soma Biswas.
 
 His research interests span continual learning, computer vision, medical imaging, and brain-inspired machine learning. Particularly fascinated by neuroscience, Suvam explores computational models inspired by the human brain to advance machine learning capabilities.
 

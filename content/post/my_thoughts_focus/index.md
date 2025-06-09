@@ -1,6 +1,11 @@
 ---
 title: Struggles with Focus
 date: 2025-05-15
+tags:
+  - productivity
+  - mental-health
+  - technology
+  - personal
 ---
 
 

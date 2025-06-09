@@ -1,7 +1,6 @@
 # Navigation Links
 #   The weight parameter defines the order that the links will appear in.
 
-
 main:
   - name: Home
     url: /
@@ -9,6 +8,6 @@ main:
   - name: Blog
     url: /post/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Topics
+    url: tags/
     weight: 30
