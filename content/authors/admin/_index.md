@@ -60,5 +60,3 @@ Suvam is a graduate student at the Indian Institute of Science (IISc), India's p
 His research interests span continual learning, computer vision, medical imaging, and brain-inspired machine learning. Particularly fascinated by neuroscience, Suvam explores computational models inspired by the human brain to advance machine learning capabilities.
 
 Through his work at IISc, he aims to develop robust algorithms that can learn continuously like biological systems, adapting to new information without forgetting previously acquired knowledge.
-
-<a target="_blank" href="https://icons8.com/icon/nY5J1vnyYXgR/university-campus">University Campus</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
